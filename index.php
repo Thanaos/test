@@ -1,5 +1,5 @@
 <?php
-/* 
+/*  TEST
  * 三个数的组合
  **/
 $dsn = "mysql:host=localhost;dbname=test";
